@@ -1,0 +1,24 @@
+{
+  "name": "SuperSoft App Pack",
+  "version": "1.0",
+  "apps": [
+    {
+      "name": "Nebula Engine",
+      "id": "com.supersoft.nebula",
+      "entry": "apps/NebulaEngine/nebula.bin",
+      "icon": "apps/NebulaEngine/icon.png"
+    },
+    {
+      "name": "Engine3DS",
+      "id": "com.supersoft.engine3ds",
+      "entry": "apps/Engine3DS/engine3ds.bin",
+      "icon": "apps/Engine3DS/icon.png"
+    },
+    {
+      "name": "Calculator",
+      "id": "com.supersoft.calculator",
+      "entry": "apps/Calculator/calc.bin",
+      "icon": "apps/Calculator/icon.png"
+    }
+  ]
+}
